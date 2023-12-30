@@ -1,0 +1,14 @@
+flutter_native_splash:
+  color: "#f7f6f1"
+  color_dark: "#272727"
+  image: assets/logos/pingbd.png
+  image_dark: assets/logos/pingbd.png
+
+
+  android_12:
+    color: "#f7f6f1"
+    color_dark: "#272727"
+    image: assets/logos/pingbd.png
+    image_dark: assets/logos/pingbd.png
+
+  web: false
